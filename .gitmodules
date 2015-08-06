@@ -1,0 +1,6 @@
+[submodule "libiconv"]
+	path = libiconv
+	url = https://github.com/Enseed/libiconv.git
+[submodule "build/staging"]
+	path = build/staging
+	url = https://github.com/Enseed/libiconv_bin.git
